@@ -5,4 +5,4 @@ You can view image if it has extension (contain.jpg)
 You can view Archive if it has extension (contain.rar)
 
 This is Old Version
-Get Updated Version [Here](https://github.com/Sachinacharya-Project/Merger-Updated)_
+Get Updated Version_ [Here](https://github.com/Sachinacharya-Project/Merger-Updated)
